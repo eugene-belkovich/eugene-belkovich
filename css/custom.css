@@ -40,3 +40,13 @@ div.panel.show {
     height: 540px;
     max-height: 550px;
 }
+
+.carousel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.current {
+    border: 3px solid rebeccapurple;
+}
