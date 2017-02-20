@@ -35,7 +35,8 @@ h6 {
     /*padding-bottom: 50px;*/
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/space/1.jpg) no-repeat center center fixed;
+/*     background: url(../img/space/1.jpg) no-repeat center center fixed; */
+    background: aquamarine;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
